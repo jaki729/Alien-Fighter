@@ -14,3 +14,7 @@ A ship that can move right and left.
 Ship should be able to fire bullets when the player presses the spacebar.
 # Third phase develoment
 Attention to the aliens and refine the gameplay.
+#####Requirement#####
+# How to Install Pygame in Python3
+python3 -m pip install -U pygame --user
+
